@@ -1,0 +1,2 @@
+# Machine-learning---supervised-learning-classification---gaussian-naive-bayes-breast-cancer-wisconsin
+Performs binary classification on the Breast Cancer Wisconsin dataset included with scikit-learn (malignant vs benign). It follows a step-by-step ML workflow: load data, inspect dataset, train/test split, train a Gaussian Naive Bayes model, evaluate with accuracy, confusion matrix,heatmap,and classification report,then run 10-fold cross-validation.
